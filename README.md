@@ -51,6 +51,7 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 ![WhatsApp Image 2025-04-29 at 22 00 15_57f2c87a](https://github.com/user-attachments/assets/752ac18b-f188-4b72-a785-a3244a7a903d)
 
 Developed by: Swetha A
+
 Register Number:212224040343
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
@@ -61,6 +62,7 @@ Register Number:212224040343
 
 
 **RESULTS**
+
 Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
